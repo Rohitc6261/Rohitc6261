@@ -1,0 +1,117 @@
+<svg width="720" height="190" viewBox="0 0 720 190" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Rohit Chaurasia achievements">
+
+    <defs>
+      <linearGradient id="gradA" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#ff4fd8"/>
+        <stop offset="100%" stop-color="#9d4edd"/>
+      </linearGradient>
+      <radialGradient id="bgGlow" cx="30%" cy="20%" r="80%">
+        <stop offset="0%" stop-color="#9d4edd" stop-opacity="0.25"/>
+        <stop offset="100%" stop-color="#9d4edd" stop-opacity="0"/>
+      </radialGradient>
+      <linearGradient id="shineGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+        <stop offset="48%" stop-color="#ffffff" stop-opacity="0"/>
+        <stop offset="50%" stop-color="#ffffff" stop-opacity="0.3"/>
+        <stop offset="52%" stop-color="#ffffff" stop-opacity="0"/>
+        <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+      </linearGradient>
+      <filter id="softGlow" x="-60%" y="-60%" width="220%" height="220%">
+        <feGaussianBlur stdDeviation="4" result="b"/>
+        <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+      </filter>
+      
+    </defs>
+
+<style>
+  text { font-family: ui-monospace, SFMono-Regular, Consolas, 'Courier New', monospace; }
+  .sans { font-family: 'Segoe UI', Helvetica, Arial, sans-serif; }
+  .slideIn { opacity: 0; animation: slideIn 0.6s ease forwards; }
+  @keyframes slideIn { from { opacity: 0; transform: translateX(-14px); } to { opacity: 1; transform: translateX(0); } }
+  .popCell { opacity: 0; animation: popCell 0.5s cubic-bezier(.2,1.5,.4,1) forwards; transform-box: fill-box; transform-origin: 50% 50%; }
+  @keyframes popCell { from { opacity: 0; transform: scale(0.7); } to { opacity: 1; transform: scale(1); } }
+</style>
+
+<rect x="1" y="1" width="718" height="188" rx="16" fill="#12081f" stroke="rgba(199,125,255,0.28)" stroke-width="1.2"/>
+<rect x="1" y="1" width="718" height="188" rx="16" fill="url(#bgGlow)"/>
+<clipPath id="trophyClip0"><rect x="0" y="0" width="128" height="150" rx="14"/></clipPath>
+
+        <g transform="translate(20,22)">
+          <g class="popCell" style="animation-delay:0.15s">
+            <rect x="0" y="0" width="128" height="150" rx="14" fill="rgba(255,255,255,0.045)" stroke="#ff4fd8" stroke-width="1.4" filter="url(#softGlow)"/>
+            <circle cx="64.0" cy="42" r="24" fill="none" stroke="#ff4fd8" stroke-width="3"/>
+            <text x="64.0" y="50" text-anchor="middle" font-size="19" font-weight="700" fill="#ff4fd8" class="sans">S</text>
+            <text x="64.0" y="92" text-anchor="middle" font-size="12" font-weight="700" fill="#f5eaff" class="sans">Automation Pro</text>
+            <text x="64.0" y="112" text-anchor="middle" font-size="9.5" fill="#8f6aa8" class="sans">90%+ scenario coverage</text>
+            <g clip-path="url(#trophyClip0)">
+              <rect x="-160" y="0" width="90" height="150" fill="url(#shineGrad2)" transform="skewX(-18)">
+                <animate attributeName="x" values="-160;288" dur="2.8s" begin="1.20s" repeatCount="indefinite"/>
+              </rect>
+            </g>
+          </g>
+        </g>
+<clipPath id="trophyClip1"><rect x="0" y="0" width="128" height="150" rx="14"/></clipPath>
+
+        <g transform="translate(162,22)">
+          <g class="popCell" style="animation-delay:0.28s">
+            <rect x="0" y="0" width="128" height="150" rx="14" fill="rgba(255,255,255,0.045)" stroke="#9d4edd" stroke-width="1.4" filter="url(#softGlow)"/>
+            <circle cx="64.0" cy="42" r="24" fill="none" stroke="#9d4edd" stroke-width="3"/>
+            <text x="64.0" y="50" text-anchor="middle" font-size="19" font-weight="700" fill="#9d4edd" class="sans">A+</text>
+            <text x="64.0" y="92" text-anchor="middle" font-size="12" font-weight="700" fill="#f5eaff" class="sans">Bug Hunter</text>
+            <text x="64.0" y="112" text-anchor="middle" font-size="9.5" fill="#8f6aa8" class="sans">25+ defects logged</text>
+            <g clip-path="url(#trophyClip1)">
+              <rect x="-160" y="0" width="90" height="150" fill="url(#shineGrad2)" transform="skewX(-18)">
+                <animate attributeName="x" values="-160;288" dur="2.8s" begin="1.40s" repeatCount="indefinite"/>
+              </rect>
+            </g>
+          </g>
+        </g>
+<clipPath id="trophyClip2"><rect x="0" y="0" width="128" height="150" rx="14"/></clipPath>
+
+        <g transform="translate(304,22)">
+          <g class="popCell" style="animation-delay:0.41s">
+            <rect x="0" y="0" width="128" height="150" rx="14" fill="rgba(255,255,255,0.045)" stroke="#ff8ae2" stroke-width="1.4" filter="url(#softGlow)"/>
+            <circle cx="64.0" cy="42" r="24" fill="none" stroke="#ff8ae2" stroke-width="3"/>
+            <text x="64.0" y="50" text-anchor="middle" font-size="19" font-weight="700" fill="#ff8ae2" class="sans">A</text>
+            <text x="64.0" y="92" text-anchor="middle" font-size="12" font-weight="700" fill="#f5eaff" class="sans">Test Architect</text>
+            <text x="64.0" y="112" text-anchor="middle" font-size="9.5" fill="#8f6aa8" class="sans">RTM + Test Plans</text>
+            <g clip-path="url(#trophyClip2)">
+              <rect x="-160" y="0" width="90" height="150" fill="url(#shineGrad2)" transform="skewX(-18)">
+                <animate attributeName="x" values="-160;288" dur="2.8s" begin="1.60s" repeatCount="indefinite"/>
+              </rect>
+            </g>
+          </g>
+        </g>
+<clipPath id="trophyClip3"><rect x="0" y="0" width="128" height="150" rx="14"/></clipPath>
+
+        <g transform="translate(446,22)">
+          <g class="popCell" style="animation-delay:0.54s">
+            <rect x="0" y="0" width="128" height="150" rx="14" fill="rgba(255,255,255,0.045)" stroke="#c77dff" stroke-width="1.4" filter="url(#softGlow)"/>
+            <circle cx="64.0" cy="42" r="24" fill="none" stroke="#c77dff" stroke-width="3"/>
+            <text x="64.0" y="50" text-anchor="middle" font-size="19" font-weight="700" fill="#c77dff" class="sans">A+</text>
+            <text x="64.0" y="92" text-anchor="middle" font-size="12" font-weight="700" fill="#f5eaff" class="sans">100% Traceability</text>
+            <text x="64.0" y="112" text-anchor="middle" font-size="9.5" fill="#8f6aa8" class="sans">Requirements mapped</text>
+            <g clip-path="url(#trophyClip3)">
+              <rect x="-160" y="0" width="90" height="150" fill="url(#shineGrad2)" transform="skewX(-18)">
+                <animate attributeName="x" values="-160;288" dur="2.8s" begin="1.80s" repeatCount="indefinite"/>
+              </rect>
+            </g>
+          </g>
+        </g>
+<clipPath id="trophyClip4"><rect x="0" y="0" width="128" height="150" rx="14"/></clipPath>
+
+        <g transform="translate(588,22)">
+          <g class="popCell" style="animation-delay:0.67s">
+            <rect x="0" y="0" width="128" height="150" rx="14" fill="rgba(255,255,255,0.045)" stroke="#ff6be8" stroke-width="1.4" filter="url(#softGlow)"/>
+            <circle cx="64.0" cy="42" r="24" fill="none" stroke="#ff6be8" stroke-width="3"/>
+            <text x="64.0" y="50" text-anchor="middle" font-size="19" font-weight="700" fill="#ff6be8" class="sans">S</text>
+            <text x="64.0" y="92" text-anchor="middle" font-size="12" font-weight="700" fill="#f5eaff" class="sans">SDET Graduate</text>
+            <text x="64.0" y="112" text-anchor="middle" font-size="9.5" fill="#8f6aa8" class="sans">6-mo intensive training</text>
+            <g clip-path="url(#trophyClip4)">
+              <rect x="-160" y="0" width="90" height="150" fill="url(#shineGrad2)" transform="skewX(-18)">
+                <animate attributeName="x" values="-160;288" dur="2.8s" begin="2.00s" repeatCount="indefinite"/>
+              </rect>
+            </g>
+          </g>
+        </g>
+</svg>
