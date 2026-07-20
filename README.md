@@ -37,13 +37,13 @@ I'm a **QA fresher** trained at Seed Infotech, Pune, skilled in both **manual** 
 ## 📊 Stats
 
 <div align="center">
-<img src="./stats.svg?v=1" alt="Testing journey stats" width="48%">
-<img src="./langs.svg?v=1" alt="Top languages and tools" width="48%">
+<img src="./stats.svg?v=2" alt="Testing journey stats" width="48%">
+<img src="./langs.svg?v=2" alt="Top languages and tools" width="48%">
 </div>
 
 <div align="center">
 <br/>
-<img src="./trophies.svg?v=1" alt="Achievements" width="98%">
+<img src="./trophies.svg?v=2" alt="Achievements" width="98%">
 </div>
 
 <br/>
