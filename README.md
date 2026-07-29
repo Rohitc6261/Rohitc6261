@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg?v=1">
-  <img src="assets/banner.svg?v=1" alt="Rohit Chaurasia — QA Engineer animated banner" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg?v=2">
+  <img src="assets/banner.svg?v=2" alt="Rohit Chaurasia — QA Engineer animated banner" width="100%">
 </picture>
 
 <br/>
@@ -15,7 +15,7 @@
 [![Open to work](https://img.shields.io/badge/Open%20to-QA%20%2F%20SDET%20Roles-22c55e?style=flat)](mailto:rohitc6261@gmail.com)
 
 <a href="assets/lanyard.svg">
-  <img src="assets/lanyard.svg?v=1" alt="Rohit Chaurasia ID badge" width="260">
+  <img src="assets/lanyard.svg?v=2" alt="Rohit Chaurasia ID badge" width="260">
 </a>
 
 </div>
@@ -79,12 +79,12 @@
 ## 📊 Stats
 
 <div align="center">
-<img src="assets/stats.svg?v=1" alt="Testing and development stats" width="48%">
-<img src="assets/langs.svg?v=1" alt="Top languages and tools" width="48%">
+<img src="assets/stats.svg?v=2" alt="Testing and development stats" width="48%">
+<img src="assets/langs.svg?v=2" alt="Top languages and tools" width="48%">
 </div>
 
 <div align="center">
-<img src="assets/trophies.svg?v=1" alt="Achievements" width="97%">
+<img src="assets/trophies.svg?v=2" alt="Achievements" width="97%">
 </div>
 
 <br/>
@@ -112,8 +112,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rohitc6261/Rohitc6261/output/github-snake.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rohitc6261/Rohitc6261/output/github-snake-light.svg?v=1">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rohitc6261/Rohitc6261/output/github-snake.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rohitc6261/Rohitc6261/output/github-snake-light.svg?v=2">
   <img src="https://raw.githubusercontent.com/Rohitc6261/Rohitc6261/output/github-snake.svg?v=1" alt="A snake eating my GitHub contribution graph" width="97%">
 </picture>
 
@@ -124,6 +124,6 @@
 <div align="center">
 
 *Testing Today, Building Better Software Tomorrow.*
-Built with pure SVG, SMIL & CSS — no JavaScript, so it renders exactly the same on GitHub. ✨
+
 
 </div>
