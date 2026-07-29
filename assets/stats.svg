@@ -1,0 +1,20 @@
+<svg width="480" height="240" viewBox="0 0 480 240" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Testing and development stats">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0f1c"/>
+      <stop offset="100%" stop-color="#131b2e"/>
+    </linearGradient>
+    <clipPath id="cardClip"><rect x="0" y="0" width="480" height="240" rx="16"/></clipPath>
+    
+    <linearGradient id="ringGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#5b9dff"/>
+      <stop offset="100%" stop-color="#93c5fd"/>
+    </linearGradient>
+    </defs>
+  <style>@keyframes rowin { from{opacity:0; transform:translateX(-10px);} to{opacity:1; transform:translateX(0);} }
+.row0 { opacity:0; transform-box: fill-box; animation: rowin 0.5s ease-out 0.90s 1 forwards; }
+.row1 { opacity:0; transform-box: fill-box; animation: rowin 0.5s ease-out 1.06s 1 forwards; }
+.row2 { opacity:0; transform-box: fill-box; animation: rowin 0.5s ease-out 1.22s 1 forwards; }
+.row3 { opacity:0; transform-box: fill-box; animation: rowin 0.5s ease-out 1.38s 1 forwards; }</style>
+  <rect x="0" y="0" width="480" height="240" rx="16" fill="url(#bgGrad)" stroke="rgba(148,163,184,0.16)" stroke-width="1.2"/><text x="22" y="32" font-family="Verdana, Segoe UI, sans-serif" font-size="15.5" font-weight="700" fill="#e7ecf7">Testing &amp; Dev Snapshot</text><text x="22" y="49" font-family="Verdana, Segoe UI, sans-serif" font-size="10.5" fill="#9aa8c2">github.com/Rohitc6261 • verified public data</text><line x1="22" y1="58" x2="458" y2="58" stroke="rgba(148,163,184,0.16)" stroke-width="1"/><circle cx="92" cy="152" r="54" fill="none" stroke="rgba(148,163,184,0.16)" stroke-width="10"/><circle cx="92" cy="152" r="54" fill="none" stroke="url(#ringGrad)" stroke-width="10" stroke-linecap="round" transform="rotate(-90 92 152)" stroke-dasharray="0 339.29"><animate attributeName="stroke-dasharray" begin="0.3s" dur="1.4s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.22 1 0.36 1" values="0 339.29;254.47 339.29"/></circle><text x="92" y="150" text-anchor="middle" font-family="Verdana, Segoe UI, sans-serif" font-size="30" font-weight="800" fill="#e7ecf7">9</text><text x="92" y="170" text-anchor="middle" font-family="Verdana, Segoe UI, sans-serif" font-size="10" fill="#9aa8c2">PUBLIC REPOS</text><g class="row0"><circle cx="172" cy="80" r="3" fill="#5b9dff"/><text x="186" y="84" font-family="Verdana, Segoe UI, sans-serif" font-size="12.5" fill="#9aa8c2">Featured QA Projects</text><text x="458" y="84" text-anchor="end" font-family="Verdana, Segoe UI, sans-serif" font-size="12.5" font-weight="700" fill="#e7ecf7">3</text></g><g class="row1"><circle cx="172" cy="114" r="3" fill="#5b9dff"/><text x="186" y="118" font-family="Verdana, Segoe UI, sans-serif" font-size="12.5" fill="#9aa8c2">Primary Language</text><text x="458" y="118" text-anchor="end" font-family="Verdana, Segoe UI, sans-serif" font-size="12.5" font-weight="700" fill="#e7ecf7">Java</text></g><g class="row2"><circle cx="172" cy="148" r="3" fill="#5b9dff"/><text x="186" y="152" font-family="Verdana, Segoe UI, sans-serif" font-size="12.5" fill="#9aa8c2">Testing Domains</text><text x="458" y="152" text-anchor="end" font-family="Verdana, Segoe UI, sans-serif" font-size="12.5" font-weight="700" fill="#e7ecf7">Manual + Automation</text></g><g class="row3"><circle cx="172" cy="182" r="3" fill="#5b9dff"/><text x="186" y="186" font-family="Verdana, Segoe UI, sans-serif" font-size="12.5" fill="#9aa8c2">Training</text><text x="458" y="186" text-anchor="end" font-family="Verdana, Segoe UI, sans-serif" font-size="12.5" font-weight="700" fill="#e7ecf7">SDET – Seed Infotech, Pune</text></g>
+</svg>
