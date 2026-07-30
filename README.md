@@ -123,6 +123,6 @@
 <div align="center">
 
 *Testing Today, Building Better Software Tomorrow.*
-Built with pure SVG, SMIL & CSS — no JavaScript, so it renders exactly the same on GitHub. ✨
+
 
 </div>
