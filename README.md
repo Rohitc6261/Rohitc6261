@@ -15,7 +15,7 @@
 [![Open to work](https://img.shields.io/badge/Open%20to-QA%20%2F%20SDET%20Roles-22c55e?style=flat)](mailto:rohitc6261@gmail.com)
 
 <a href="assets/lanyard.svg">
-  <img src="assets/lanyard.svg?v=2" alt="Rohit Chaurasia ID badge" width="230">
+  <img src="assets/lanyard.svg?v=1" alt="Rohit Chaurasia ID badge" width="230">
 </a>
 
 </div>
